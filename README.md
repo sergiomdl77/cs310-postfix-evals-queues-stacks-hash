@@ -1,5 +1,7 @@
 # cs310-queues-stacks-hash-tables
 
+Project Overview:
+
 By the end of this project, you will have defined a stack class, a simple linear probing hash table, and a postfix computer.
 You will use file I/O to read programs from files and execute them on your “computer”. If you’re unfamiliar with postfix
 notation, the following programs (and their more familiar infix versions) are shown below:
