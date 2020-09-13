@@ -2,8 +2,8 @@
 
 Project Overview:
 
-By the end of this project, you will have defined a stack class, a simple linear probing hash table, and a postfix computer.
-You will use file I/O to read programs from files and execute them on your “computer”. If you’re unfamiliar with postfix
+By the end of this project, I had defined a stack class, a simple linear probing hash table, and a postfix computer.
+I utilized a file I/O to read programs from files and execute them on your “computer”. If you’re unfamiliar with postfix
 notation, the following programs (and their more familiar infix versions) are shown below:
 
 Postfix:  3 2 +    
